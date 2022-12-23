@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VinhInOneStep (Vinh Is a Vietnamese Name that Means Glory)
+- 👋 Hi, I’m @VinhInOneStep, My real name is Vinh (Vinh Is a Vietnamese Name that Means Glory)
 - 👀 I’m interested in Coding, Boxing, Japanese/Japan, Self Improvement, and manga
 - 🌱 I’m currently learning Javascript, C#, Typescript, and Web Development 
 - 💞️ I’m looking to collaborate on Nothing at the momment 
